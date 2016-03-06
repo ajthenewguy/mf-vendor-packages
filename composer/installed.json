@@ -1141,12 +1141,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/symfony/console.git",
-            "reference": "200f109d77649eac204aee729cfc8760f02b3ade"
+            "reference": "fc80e5986663859afb84d26baeb41f17ac330e43"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/symfony/console/zipball/200f109d77649eac204aee729cfc8760f02b3ade",
-            "reference": "200f109d77649eac204aee729cfc8760f02b3ade",
+            "url": "https://api.github.com/repos/symfony/console/zipball/fc80e5986663859afb84d26baeb41f17ac330e43",
+            "reference": "fc80e5986663859afb84d26baeb41f17ac330e43",
             "shasum": ""
         },
         "require": {
@@ -1163,7 +1163,7 @@
             "symfony/event-dispatcher": "",
             "symfony/process": ""
         },
-        "time": "2016-02-28 16:28:07",
+        "time": "2016-03-04 07:56:56",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -1330,12 +1330,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/composer/composer.git",
-            "reference": "070ee506937170bb81a2e352aa444eaf29f0a2f6"
+            "reference": "3cea62b6ed8220cca53721a3210fbf64a08170dc"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/composer/composer/zipball/070ee506937170bb81a2e352aa444eaf29f0a2f6",
-            "reference": "070ee506937170bb81a2e352aa444eaf29f0a2f6",
+            "url": "https://api.github.com/repos/composer/composer/zipball/3cea62b6ed8220cca53721a3210fbf64a08170dc",
+            "reference": "3cea62b6ed8220cca53721a3210fbf64a08170dc",
             "shasum": ""
         },
         "require": {
@@ -1360,7 +1360,7 @@
             "ext-zip": "Enabling the zip extension allows you to unzip archives",
             "ext-zlib": "Allow gzip compression of HTTP requests"
         },
-        "time": "2016-02-28 14:08:43",
+        "time": "2016-03-04 15:39:36",
         "bin": [
             "bin/composer"
         ],
