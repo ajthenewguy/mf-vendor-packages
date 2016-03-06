@@ -12,7 +12,8 @@
         }
     ],
     "require": {
-        "aura/sqlquery": "2.6.*"
+        "aura/sqlquery": "2.6.*",
+        "vlucas/phpdotenv": "^2.2"
     },
     "require-dev": {
         "composer/composer": "dev-master",
