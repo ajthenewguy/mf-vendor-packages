@@ -23,7 +23,7 @@
 	"autoload": {
 		"psr-4": {
 			"MVCFAM\\App\\": "../app/src/",
-            "Ajthenewguy\\": "../app/src/Helpers/git-php/"
+            "Ajthenewguy\\git\\": "../app/src/Helpers/git-php/"
 		}
 	}
 }

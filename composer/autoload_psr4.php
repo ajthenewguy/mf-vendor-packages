@@ -22,5 +22,5 @@ return array(
     'Composer\\Semver\\' => array($vendorDir . '/composer/semver/src'),
     'Composer\\' => array($vendorDir . '/composer/composer/src/Composer'),
     'Aura\\SqlQuery\\' => array($vendorDir . '/aura/sqlquery/src'),
-    'Ajthenewguy\\' => array($baseDir . '/../app/src/Helpers/git-php'),
+    'Ajthenewguy\\git\\' => array($baseDir . '/../app/src/Helpers/git-php'),
 );
